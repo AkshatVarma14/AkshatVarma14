@@ -5,8 +5,8 @@
 - 🔭 I’m currently working on --- 
 - 🌱 I’m currently learning: CSS
 - 📫 How to reach me: 
--     Email: Akshatvarma14feb2006@gmail.com 
--     Discord: Scalar.Dev#1279
+-   Email: Akshatvarma14feb2006@gmail.com 
+-   Discord: Scalar.Dev#1279
 - 😄 Pronouns: He/Him
 
 <!-- This file is visible on my Profile-->
