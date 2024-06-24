@@ -5,6 +5,6 @@
 - 🌱 I’m currently learning: C
 - 📫 How to reach me: 
 -   Email: Akshatvarma14feb2006@gmail.com 
--   Discord: Scalar.Dev#1279
+-   Discord: username.not_found
 
 <!-- This file is visible on my Profile-->
