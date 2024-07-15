@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🏫 Current Education: 10+2 (CISCE)
+- 🏫 Current Education: Upcoming fresher at Manipal University Jaipur
 - 👦🏻 Age: 18 y/o
 - 🌱 I’m currently learning: C
 - 📫 How to reach me: 
