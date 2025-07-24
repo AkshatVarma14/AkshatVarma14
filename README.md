@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🏫 Current Education: Fresher at Manipal University Jaipur
+- 🏫 Current Education: Sophomore at Manipal University Jaipur
 - 👦🏻 Age: 19 y/o
 - 🌱 I’m currently learning: Python
 - 📫 How to reach me: 
