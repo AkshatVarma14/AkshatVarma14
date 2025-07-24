@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🏫 Current Education: Fresher at Manipal University Jaipur
-- 👦🏻 Age: 18 y/o
-- 🌱 I’m currently learning: C
+- 👦🏻 Age: 19 y/o
+- 🌱 I’m currently learning: Python
 - 📫 How to reach me: 
 -   Email: Akshatvarma14feb2006@gmail.com 
 -   Discord: username.not_found
