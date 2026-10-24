@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Third Year at Manipal University Jaipur
+- Third Year Student at Manipal University Jaipur
 - Age: 20 
 - Email: Akshatvarma14feb2006@gmail.com 
 <!-- This file is visible on my Profile-->
