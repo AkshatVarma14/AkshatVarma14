@@ -1,2 +1,8 @@
-Computer Science and Engineering undergraduate at Manipal University Jaipur (May 2028) with hands-on software engineering internship experience at HCLTech. Builds and tests applications using Python, Java, TypeScript, React, FastAPI, Flask, SQL, and Git. Experienced in data structures, algorithms, REST APIs, authentication, databases, and automated testing, with projects spanning search algorithms, web platforms, and cross-platform mobile development.
-Contact : Akshatvarma14feb2006@gmail.com
+## About Me
+
+- omputer Science and Engineering undergraduate at **Manipal University Jaipur**, graduating in **May 2028**.
+- Hands-on **Software Engineering Intern at HCLTech**, with practical industry experience.
+- Develops and tests applications using **Python, Java, TypeScript, React, FastAPI, Flask, SQL, and Git**.
+- Strong foundation in **Data Structures & Algorithms, REST APIs, Authentication, Database Management, and Automated Testing**.
+- Builds projects across **search algorithms, full-stack web applications, and cross-platform mobile development**.
+- Contact : **akshatvarma14feb2006@gmail.com**
