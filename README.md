@@ -1,6 +1,6 @@
 ## About Me
 
-- omputer Science and Engineering undergraduate at **Manipal University Jaipur**, graduating in **May 2028**.
+- Computer Science and Engineering undergraduate at **Manipal University Jaipur**, graduating in **May 2028**.
 - Hands-on **Software Engineering Intern at HCLTech**, with practical industry experience.
 - Develops and tests applications using **Python, Java, TypeScript, React, FastAPI, Flask, SQL, and Git**.
 - Strong foundation in **Data Structures & Algorithms, REST APIs, Authentication, Database Management, and Automated Testing**.
