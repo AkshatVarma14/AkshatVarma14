@@ -1,6 +1,2 @@
-### Hi there 👋
-
-- Third Year Student at Manipal University Jaipur
-- Age: 20 
-- Email: Akshatvarma14feb2006@gmail.com 
-<!-- This file is visible on my Profile-->
+Computer Science and Engineering undergraduate at Manipal University Jaipur (May 2028) with hands-on software engineering internship experience at HCLTech. Builds and tests applications using Python, Java, TypeScript, React, FastAPI, Flask, SQL, and Git. Experienced in data structures, algorithms, REST APIs, authentication, databases, and automated testing, with projects spanning search algorithms, web platforms, and cross-platform mobile development.
+Contact : Akshatvarma14feb2006@gmail.com
